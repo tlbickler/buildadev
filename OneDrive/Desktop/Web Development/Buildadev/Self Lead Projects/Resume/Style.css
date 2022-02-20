@@ -1,0 +1,27 @@
+
+body {
+
+    font-family: 'Open Sans', sans-serif;
+    background-color: #FEFBF3;
+    
+}
+
+img {
+
+    border-radius: 50%;
+}
+
+h1{
+    font-family: 'Parisienne', cursive;
+    font-size: 50px;
+    color:#79B4B7;
+
+}
+h2 {
+    color:#79B4B7;
+}
+
+ul {
+    list-style-type: circle;
+    color: #9D9D9D;
+}
