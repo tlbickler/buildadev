@@ -1,0 +1,40 @@
+
+table{
+    width: 20%;
+    border: solid 1px blue;
+    border-spacing: 0px;
+text-align: left;
+}
+caption{
+    color: blueviolet;
+font-weight: bold;
+font-size: larger;
+
+}
+
+    tr,td,th{ 
+        border: solid 1px blue;
+        height: 20px;
+        border-collapse: collapse;
+        
+
+}
+
+
+.PN{
+    width: 40%;
+}
+.color{
+    width: 25%;
+}
+.Quanity{
+    width: 15%;
+}
+.price{
+    width: 20%;
+}
+
+.blackBar {
+    background-color: black;
+    
+}
